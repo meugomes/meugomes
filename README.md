@@ -1,32 +1,9 @@
 
 # Olá, eu sou o Romeu Gomes! 👋
 
-Sou um **Desenvolvedor Mobile & Web** e **Formador de Tecnologia** baseado em Luanda, Angola. A minha missão é unir a paixão pelo código com a didática para criar soluções digitais intuitivas e capacitar novos talentos na área tecnológica.
 
-### 🚀 O que eu faço:
-- **Desenvolvimento Mobile:** Focado em **Flutter & Dart**, criando aplicações fluidas e modernas (como o meu projeto atual, o App "Controla o Tempo").
-- **Desenvolvimento Web:** Especialista em interfaces responsivas utilizando **JavaScript**, HTML5 e CSS3.
-- **UI/UX Design:** Aplico princípios de Design Thinking e prototipagem no **Figma** para garantir a melhor experiência do utilizador.
-- **Educação Digital:** Formador com base pedagógica, focado em literacia digital e desenvolvimento de competências técnicas.
 
-### 🛠️ Tecnologias & Ferramentas:
-- **Linguagens:** JavaScript (ES6+), Dart, HTML, CSS.
-- **Frameworks/Mobile:** Flutter, Android Basics.
-- **Design:** Figma, Adobe Photoshop, Illustrator.
-- **Infraestrutura:** Redes de Computadores (Cisco NetAcad), Hardware e Eletrónica.
-- **Ferramentas:** Git, GitHub, VS Code.
 
-### 🎓 Certificações em Destaque:
-- **freeCodeCamp:** JavaScript Algorithms & Responsive Web Design.
-- **Codecademy:** UI/UX Design, Android Basics & Git.
-- **Cisco NetAcad:** Networking Fundamentals.
-- **Udemy:** Flutter & Graphic Design.
-
-### 📈 Projetos Recentes:
-- **[Controla o Tempo]**: Uma aplicação focada em gestão de produtividade desenvolvida em Flutter.
-- ** 
-
----
 
 ### 📫 Como me encontrar:
   <a href="mailto:romeujoaogomes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
